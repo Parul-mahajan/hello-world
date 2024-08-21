@@ -6,4 +6,4 @@ CSA
 Microsoft
 
 GitHub for Dev
-GitHub for Devs 🙂
+GitHub for Devs
