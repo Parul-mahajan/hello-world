@@ -5,5 +5,5 @@ This is Parul
 CSA
 Microsoft
 
-GitHub for Devloper
+GitHub for Devlopers
 GitHub for Devs 🙂
